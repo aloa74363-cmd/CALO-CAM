@@ -1,0 +1,6 @@
+{
+  "name": "NutriScan AI - Kalorien & Food Tracker",
+  "description": "Moderner, mehrsprachiger Kalorientracker (Deutsch, Englisch, Arabisch) mit KI-Fotoerkennung für Mahlzeiten, Makronährstoff-Zielen, Eiweiß-Tracker und persönlichem Profil.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
